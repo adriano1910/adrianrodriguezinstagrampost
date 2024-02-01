@@ -1,16 +1,14 @@
-* {
-	border: 1px dashed red;
-	min-height: 5px;
-}
-.roboto-thin {
-	
-  }
+
+
 #marcar{ margin-left: 352px;
 
 }
 body{
 	width:500px;
-	background-color:black
+	background-color:black;
+	font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
 }
 .names{
 	display:flex;
@@ -22,22 +20,29 @@ body{
 	
 }
 .post-header{
-	display: inline-flex;
-}
-.html{ width: 20%;
- display: flex;
-height: 20%;}
+	display:flex;
 
- .rigoberto{ width: 20%;
+	
+	
+}
+
+
+ .rigoberto{ 
+	padding-top:5%;
+	width: 20%;
 	height: 20%;
 }
 .post-image{
 	padding: 2px 2px;
 }
-.three-pts{
-	margin-left: 81%;
-	margin-top: 0%
+
+.tres-pts-box{
+	max-width:fit-content;
+align-items: right;
+;
 	
+}
+.tres-pts{padding-left: 900%;
 }
 
 .text1{ margin-left:5px;
