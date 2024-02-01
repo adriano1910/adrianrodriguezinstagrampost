@@ -1,0 +1,51 @@
+* {
+	border: 1px dashed red;
+	min-height: 5px;
+}
+.roboto-thin {
+	
+  }
+#marcar{ margin-left: 352px;
+
+}
+body{
+	width:500px;
+	background-color:black
+}
+.names{
+	display:flex;
+	flex-direction: column;
+}
+.post{ margin-left: 10%;
+	background:white;
+
+	
+}
+.post-header{
+	display: inline-flex;
+}
+.html{ width: 20%;
+ display: flex;
+height: 20%;}
+
+ .rigoberto{ width: 20%;
+	height: 20%;
+}
+.post-image{
+	padding: 2px 2px;
+}
+.three-pts{
+	margin-left: 81%;
+	margin-top: 0%
+	
+}
+
+.text1{ margin-left:5px;
+}
+.text2{ margin-left:5px;
+	padding-top:5px;
+}
+
+.post-bottom{ margin-left:5px;
+
+}
