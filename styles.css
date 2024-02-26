@@ -14,7 +14,9 @@ body{
 	display:flex;
 	flex-direction: column;
 }
-.post{ margin-left: 10%;
+.post{ 
+	padding: 5%;
+	margin-left: 10%;
 	background:white;
 
 	
@@ -42,7 +44,7 @@ align-items: right;
 ;
 	
 }
-.tres-pts{padding-left: 900%;
+.tres-pts{padding-left: 890%;
 }
 
 .text1{ margin-left:5px;
